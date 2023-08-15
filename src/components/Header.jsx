@@ -15,9 +15,9 @@ const Header = ({ text, bgColor, textColor }) => {
 };
 
 Header.defaultProps = {
-	text: 'Feedback UI',
-	bgColor: 'rgba(0,0,0,4)',
-	textColor: '#ff6a95'
+	text: 'REACT RATING APP',
+	bgColor: '#fff',
+	textColor: '#b467fc'
 };
 
 Header.propTypes = {
