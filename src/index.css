@@ -193,15 +193,14 @@ input:focus {
 	color: #8ec5fc;
 }
 
-/* FIX: Remove position: absolute to keep about icon at the bottom of the
- * document */
 .about-link {
+	position: absolute;
+	bottom: 40px;
+	right: 40px;
 	display: flex;
 	justify-content: flex-end;
 }
 
-/* FIX: Remove position: absolute to keep about icon at the bottom of the
- * document */
 .about-link a {
 	color: #fff;
 	cursor: pointer;
