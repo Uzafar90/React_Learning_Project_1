@@ -14,11 +14,6 @@ const FeedbackData = [
 		rating: 8,
 		text: 'Absolutely amazing experience! Highly recommended.'
 	}
-	// {
-	// 	id: 4,
-	// 	rating: 2.2,
-	// 	text: 'Disappointed with the quality of the item.'
-	// }
 ];
 
 export default FeedbackData;
