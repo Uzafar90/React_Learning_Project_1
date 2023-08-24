@@ -15,7 +15,7 @@ const Header = ({ text, bgColor, textColor }) => {
 };
 
 Header.defaultProps = {
-	text: 'REACT RATING APP',
+	text: 'rateMyReactApp.com',
 	bgColor: '#fff',
 	textColor: '#b467fc'
 };

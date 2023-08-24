@@ -1,24 +1,19 @@
 {
   "feedback": [
     {
-      "id": 1,
+      "text": "Thank you !!!!",
       "rating": 10,
-      "text": "This is feedback item 1 coming from the backend"
+      "id": 1
     },
     {
       "id": 2,
-      "rating": 9,
-      "text": "This is feedback item 2 coming from the backend"
+      "rating": 2,
+      "text": "Disappointed with the quality. Not worth the price."
     },
     {
       "id": 3,
-      "rating": 8,
-      "text": "This is feedback item 3 coming from the backend"
-    },
-    {
-      "text": "this is a new item update",
-      "rating": 5,
-      "id": 4
+      "rating": 9,
+      "text": "I absolutely love it! The best purchase I've made this year."
     }
   ]
 }
